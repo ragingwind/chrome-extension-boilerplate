@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Chrome Extension Boilerplate",
+    "description": "Boilerplate to kickstart creating a chrome extension"
+  },
+  "appDescription": {
+    "message": "Chrome Extension Boilerplate",
+    "description": "Boilerplate to kickstart creating a chrome extension"
+  }
+}
